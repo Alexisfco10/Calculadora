@@ -1,0 +1,17 @@
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\bin\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Calculadora.resources
