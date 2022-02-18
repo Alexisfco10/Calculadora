@@ -301,7 +301,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(228, 327);
+            this.ClientSize = new System.Drawing.Size(596, 327);
             this.Controls.Add(this.pantalla);
             this.Controls.Add(this.botonigual);
             this.Controls.Add(this.botonborrar);
